@@ -11,3 +11,4 @@ except ValueError as e:
     logging.exception(e)
     print(e)
     print('Key a valid input')
+print('adf')
